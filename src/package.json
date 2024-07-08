@@ -1,0 +1,19 @@
+{
+  "name": "topidief",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dEzequiel/fromwetopidief.git"
+  },
+  "author": "Ezequiel De La Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dEzequiel/fromwetopidief/issues"
+  },
+  "homepage": "https://github.com/dEzequiel/fromwetopidief#readme"
+}
