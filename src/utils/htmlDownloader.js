@@ -1,4 +1,4 @@
-class HTMLDownloader {
+export default class HTMLDownloader {
     static async downloadHTML(url) {
         try {
             const response = await fetch(url);
@@ -10,5 +10,3 @@ class HTMLDownloader {
         }
     }
 }
-
-module.exports = HTMLDownloader;
