@@ -2,10 +2,7 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import PDFRenderer from '../utils/pdfRenderer.js';
 import fs from 'fs';
-import { fileURLToPath } from 'url';
-import { dirname } from 'path';
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+
 
 test('renderPDF creates a PDF file', async () => {
     const parsedData = {
