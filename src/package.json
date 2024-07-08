@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/dEzequiel/fromwetopidief#readme",
   "dependencies": {
-    "jsdom": "^24.1.0"
+    "jsdom": "^24.1.0",
+    "pdfkit": "^0.15.0"
   }
 }
